@@ -2,11 +2,11 @@
     "rewrites": [
         {
             "source": "/project2/:path*",
-            "destination": "https://sperry-project2-<id>.vercel.app/project2/:path*"
+            "destination": "https://monorepo-ashen.vercel.app/project2/:path*"
         },
         {
             "source": "/project3/:path*",
-            "destination": "https://sperry-project3-<id>.vercel.app/project3/:path*"
+            "destination": "https://monorepo-ashen.vercel.app/project3/:path*"
         }
     ]
 }
