@@ -1,0 +1,11 @@
+{
+  "name": "@repo/ui",
+  "version": "1.0.0",
+  "main": "./Button.jsx",
+  "types": "./Button.jsx",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "react": "18.2.0"
+  }
+}
